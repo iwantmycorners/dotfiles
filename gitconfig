@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = kiang.jn@gmail.com
+	name = julien kiang
